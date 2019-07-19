@@ -1,0 +1,10 @@
+## 地址服务器域名如下
+## https://help.aliyun.com/document_detail/64129.html
+
+Server-Domain-Address:
+  Public: acm.aliyun.com  # 公网地址，适用于开发
+  HZ:	addr-hz-internal.edas.aliyun.com
+  QD:	addr-qd-internal.edas.aliyun.com
+  SH:	addr-sh-internal.edas.aliyun.com
+  BJ:	addr-bj-internal.edas.aliyun.com
+  SZ:	addr-sz-internal.edas.aliyun.com
